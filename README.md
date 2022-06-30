@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+->
+
+<a href="https://github.com/kudo-kenya22-fixer">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kudo-kenya22-fixer&count_private=true&theme=dracula" />
+</a>
+
+
