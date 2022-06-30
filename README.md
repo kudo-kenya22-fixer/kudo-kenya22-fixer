@@ -19,4 +19,8 @@ Here are some ideas to get you started:
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kudo-kenya22-fixer&count_private=true&theme=dracula" />
 </a>
 
+<a href="https://github.com/kudo-kenya22-fixer">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?/top-langs/?username=kudo-kenya22-fixer&layout=compact&theme=dracula" />
+</a>
+
 
